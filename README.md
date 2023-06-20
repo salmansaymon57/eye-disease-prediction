@@ -37,3 +37,12 @@ So, Experiment B was conducted having only healthy images from a different datas
 
 ### `Resources:`
 [This](https://github.com/bnsreenu/python_for_microscopists) repository of Dr. Sreenivas Bhattiprolu and his [YouTube Channel](https://www.youtube.com/channel/UC34rW-HtPJulxr5wp2Xa04w) has helped me a lot in understanding and implementing this classification task.
+
+
+Whoever worked on this thesis:
+
+Md. Salmanur Rahman Saymon || Github id: https://github.com/salmansaymon57
+
+Hasnath Jami Chowdhury || Github id: https://github.com/HasnathJami
+
+Anas Mohammad Anwar || Github id: https://github.com/AnasAnwar11
